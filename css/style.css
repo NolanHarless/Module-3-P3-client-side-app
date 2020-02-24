@@ -1,0 +1,35 @@
+.nav-blue{
+    background-color: #271033 !important;
+    border-bottom: 5px solid #FFE882;
+}
+.nav-blue a{
+    font-size: 1.25em;
+}
+.nav-blue a:hover{
+    color: white !important;
+}
+.active a{
+    color: #FFE882 !important;
+}
+.blue-color-text{
+    color: #388697 !important;
+}
+.footer-style{
+    background-color: #271033 !important;
+    color: #FFE882;
+}
+.footer-style a{
+    color: white;
+}
+.btn-blue{
+    background-color: #271033;
+    border: none;
+}
+.btn-blue:hover{
+    background-color: #388697;
+    border: none;
+}
+.orange-header{
+    background-color: #FA8334;
+    color: white;
+}
